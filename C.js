@@ -6,3 +6,7 @@ function go1() {
 
 
 }
+
+function go22() {
+
+}
